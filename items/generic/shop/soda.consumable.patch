@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/rarity",
-    "value": "Essential"
+    "value": "Legendary"
   },
   {
     "op": "replace",

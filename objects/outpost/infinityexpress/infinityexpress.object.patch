@@ -1,24 +1,9 @@
 [
   {
     "op": "add",
-    "path": "/interactData/items/0",
-    "value": {
-      "item": "soda"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/1",
+    "path": "/interactData/items/-",
     "value": {
       "item": "hamburger"
     }
-  },
-  {
-    "op": "remove",
-    "path": "/interactData/items/15"
-  },
-  {
-    "op": "remove",
-    "path": "/interactData/items/22"
   }
 ]
