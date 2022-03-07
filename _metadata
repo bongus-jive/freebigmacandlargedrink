@@ -1,10 +1,11 @@
 {
-  "version" : "1.1",
+  "version" : "2.0-alpha",
   "tags" : "Miscellaneous|Food and Farming",
   "author" : "pathek",
-  "description" : "[b]Oh no! It's so sad what happened to \n@xxxtentacion! Click here for a chance to win\na free BIG MAC and LARGE DRINK!\nmcdonalds.dm/celebrationofl...[/b]\n\nfree big macs and drinks at Infinity Express haha\n\n[url=https://discord.gg/GdsQSgV]join brongus[/url]\n\n\nyou can't actually buy the stuff at infinity express it took me nearly two years to notice this",
+  "description" : "price of the Burger and a Soda at McDonalds is now 1\nit cant be 0 because starbound is bad\n\n[url=https://discord.gg/GdsQSgV]join brongus[/url]",
   "name" : "free big mac (and large drink)",
   "friendlyName" : "free big mac (and large drink)",
   "steamContentId" : "1416372620",
-  "link" : "steam://url/CommunityFilePage/1416372620"
+  "link" : "steam://url/CommunityFilePage/1416372620",
+  "includes" : ["zcrab_mcdonalds"]
 }

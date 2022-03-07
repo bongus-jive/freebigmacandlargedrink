@@ -1,0 +1,4 @@
+[
+	{"op" : "add", "path" : "/interactData/items/1/price", "value" : 1},
+	{"op" : "add", "path" : "/interactData/items/6/price", "value" : 1}
+]
