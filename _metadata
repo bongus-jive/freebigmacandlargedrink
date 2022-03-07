@@ -1,11 +1,11 @@
 {
-  "version" : "2.0-alpha",
-  "tags" : "Miscellaneous|Food and Farming",
+  "version" : "2.0",
   "author" : "pathek",
-  "description" : "price of the Burger and a Soda at McDonalds is now 1\nit cant be 0 because starbound is bad\n\n[url=https://discord.gg/GdsQSgV]join brongus[/url]",
+  "tags" : "Miscellaneous|Food and Farming",
+  "description" : "when you interact with mcdonalds there is a chance to win Fre e Big mac and the Drink\n\n[url=https://discord.gg/GdsQSgV]join brongus[/url]",
   "name" : "free big mac (and large drink)",
-  "friendlyName" : "free big mac (and large drink)",
   "steamContentId" : "1416372620",
+  "friendlyName" : "free big mac (and large drink)",
   "link" : "steam://url/CommunityFilePage/1416372620",
   "includes" : ["zcrab_mcdonalds"]
 }
